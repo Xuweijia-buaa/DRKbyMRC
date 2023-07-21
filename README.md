@@ -1,3 +1,2 @@
-# myQA
-
-![image](https://github.com/Xuweijia-buaa/myQA/assets/23491401/b95243db-4426-473f-a7dc-edebd32aa05d)
+# Discovering Relational knowledge by Reading Articles
+![image](https://github.com/Xuweijia-buaa/Discovering-Relational-knowledge-by-Reading-Articles/assets/23491401/767dfc60-7fe7-44e6-bf27-cab8bf169019)
